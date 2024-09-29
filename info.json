@@ -1,0 +1,10 @@
+{
+  "name": "OKVIP",
+  "symbol": "OKVIP",
+  "decimals": 18,
+  "description": "MyBEP20Token is a BEP-20 token designed for blockchain applications.",
+  "website": "https://mybep20token.com",
+  "explorer": "https://bscscan.com/address/0xf90ebec43214e653aedccdcee8b2cca6bc97ad5c",
+  "status": "active",
+  "id": "0xf90ebec43214e653aedccdcee8b2cca6bc97ad5c"
+}
